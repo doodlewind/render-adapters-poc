@@ -2,7 +2,7 @@
   "name": "adapter-react",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "GPL",
+  "license": "MIT",
   "dependencies": {
     "pixi.js": "^4.8.2",
     "react": "^16.5.2",
