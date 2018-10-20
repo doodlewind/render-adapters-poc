@@ -126,7 +126,7 @@ export const Renderer = ReactFiberReconciler({
     return childHostContext
   },
 
-  supportsMutation: true,
+  supportsMutation: true
   // TODO
   // useSyncScheduling: true
 })
